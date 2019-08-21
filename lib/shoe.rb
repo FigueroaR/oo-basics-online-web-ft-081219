@@ -10,3 +10,6 @@ class Shoe
   end 
   
 end 
+
+
+book.condition("new")
