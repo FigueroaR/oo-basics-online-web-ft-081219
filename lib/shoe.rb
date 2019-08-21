@@ -11,5 +11,5 @@ class Shoe
   
 end 
 
-book=book.new
-book.condition("new")
+shoe = Shoe.new
+shoe.condition("new")
